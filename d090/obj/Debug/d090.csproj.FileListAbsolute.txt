@@ -1,0 +1,13 @@
+C:\Users\LAB-5\source\repos\d090\d090\bin\Debug\d090.exe.config
+C:\Users\LAB-5\source\repos\d090\d090\bin\Debug\d090.exe
+C:\Users\LAB-5\source\repos\d090\d090\bin\Debug\d090.pdb
+C:\Users\LAB-5\source\repos\d090\d090\obj\Debug\d090.csproj.AssemblyReference.cache
+C:\Users\LAB-5\source\repos\d090\d090\obj\Debug\d090.Form1.resources
+C:\Users\LAB-5\source\repos\d090\d090\obj\Debug\d090.Properties.Resources.resources
+C:\Users\LAB-5\source\repos\d090\d090\obj\Debug\d090.csproj.GenerateResource.cache
+C:\Users\LAB-5\source\repos\d090\d090\obj\Debug\d090.csproj.CoreCompileInputs.cache
+C:\Users\LAB-5\source\repos\d090\d090\obj\Debug\d090.exe
+C:\Users\LAB-5\source\repos\d090\d090\obj\Debug\d090.pdb
+D:\uygulama 1 8.11.2023\d090\obj\Debug\d090.csproj.AssemblyReference.cache
+D:\uygulama 1 8.11.2023\d090\obj\Debug\d090.exe
+D:\uygulama 1 8.11.2023\d090\obj\Debug\d090.pdb
